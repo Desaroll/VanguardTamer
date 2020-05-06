@@ -1,1 +1,1 @@
-g++ main.cpp --static
+gcc main.cpp --static -o "VanguardTamer.exe"
